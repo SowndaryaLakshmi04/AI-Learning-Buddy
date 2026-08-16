@@ -64,42 +64,6 @@ The user provides a learning-related question or prompt. The AI Learning Buddy p
 * Google account
 * Gemini API key
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/AI-Learning-Buddy.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd AI-Learning-Buddy
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 🔑 API Key Configuration
-
-Obtain a Gemini API key from Google AI Studio.
-
-For security reasons, do not hard-code your API key or upload it to GitHub.
-
-Example:
-
-```python
-import os
-
-API_KEY = os.getenv("GEMINI_API_KEY")
-```
-
-Configure your API key securely before running the project.
-
 ## ▶️ Running the Project
 
 1. Open the project notebook in Google Colab.
