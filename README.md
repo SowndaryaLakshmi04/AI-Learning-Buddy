@@ -151,16 +151,6 @@ This project was developed as part of the **AI EmpowHer Program by Infosys Sprin
 
 The program provided hands-on exposure to **Generative AI, AI problem solving, Google Colab, Gemini, Google AI Studio, and AI application development**.
 
-## 👩‍💻 Author
+## ✨Acknowledgement
 
-**Sowndarya Lakshmi**
-
-Final Year Student | Aspiring Software Developer
-
-## 🙏 Acknowledgement
-
-Special thanks to **Infosys Springboard and the AI EmpowHer Program** for providing the learning resources, guidance, and hands-on experience that supported the development of this project.
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
+Special thanks to **Infosys Springboard and the AI Empow(H)er Program** for providing the learning resources, guidance, and hands-on experience that supported the development of this project.
